@@ -27,7 +27,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-s
+
 
 public class ManageCustomersFormController {
     public AnchorPane root;
